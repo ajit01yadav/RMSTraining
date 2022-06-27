@@ -37,7 +37,7 @@ namespace Services
         public string getLoggedInUserEmailId()
         {
             //Commented below line and add new line on 24 june2022 to get userIdentity by Ajit
-            // string strUserIdentity = HttpContext.Current.User.Identity.Name;
+            //string strUserIdentity = HttpContext.Current.User.Identity.Name;
             string strUserIdentity = HttpContext.Current.Request.LogonUserIdentity.Name;
 
 

@@ -82,15 +82,18 @@ namespace RMS.Common.Constants
         public const string SAIGIDDUNISEmailId = "sai.giddu@northgateps.com";
         public const string SAIGIDDUNISandNAVYANISEmailId = "sai.giddu@northgateps.com,navya.annamraju@northgateps.com";
         //public const string CFOEmailIDs = "Ian.Noble@northgateps.com,kedar.barve@northgateps.com";
-        public const string CFOEmailIDs = "kedar.barve@northgateps.com";
+        //Commented and add new emailid by Ajit on 20 sep2022
+       // public const string CFOEmailIDs = "kedar.barve@northgateps.com";
+        public const string CFOEmailIDs = "kedar.barve@necsws.com";
         #region Modified By Mohamed Dangra
         // Mohamed : NIS-RMS : 02/01/2015 : Starts                        			  
         // Desc : Add Naviya name where there is Sai name "navya.annamraju@northgateps.com"				
         public const string NAVYANISEmailId = "navya.annamraju@northgateps.com";
         // Mohamed : NIS-RMS : 02/01/2015 : Ends
         #endregion Modified By Mohamed Dangra
-
-        public const string EmailIdOfRMOGroup = "rave.rm.group@northgateps.com";
+        //Commented and added new emailid by Ajit on 20/07/2022
+        // public const string EmailIdOfRMOGroup = "rave.rm.group@northgateps.com";
+        public const string EmailIdOfRMOGroup = "india.rmgroup@necsws.com";
         //Ishwar Patil : Training Module : 20/08/2014 Start
         public const string EmailIdForKSS = "nitin.madkaikar@northgateps.com";
         //Ishwar Patil : Training Module : 20/08/2014 End
